@@ -1,6 +1,10 @@
 Sentiment Analysis Streamlit App
+
+
 Overview
 This project is a sentiment analysis application built with Streamlit. It allows users to enter a comment and receive a sentiment prediction (e.g., positive, negative, or neutral). The application uses a pre-trained machine learning model to make predictions based on text input.
+
+
 
 Features
 User-friendly interface for entering text comments.
